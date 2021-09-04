@@ -1,5 +1,5 @@
 # Table of Content
-[[_TOC_]]
+Table of content
 
 # IR Playbooks
 This repository contains all the Incident Response Playbooks and Workflows of Company's SOC.
